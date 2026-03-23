@@ -1,0 +1,55 @@
+# ── Competition data files (DO NOT COMMIT — Kaggle rules prohibit redistribution) ──
+Cities.csv
+Conferences.csv
+MConferenceTourneyGames.csv
+MGameCities.csv
+MMasseyOrdinals.csv
+MNCAATourneyCompactResults.csv
+MNCAATourneyDetailedResults.csv
+MNCAATourneySeedRoundSlots.csv
+MNCAATourneySeeds.csv
+MNCAATourneySlots.csv
+MRegularSeasonCompactResults.csv
+MRegularSeasonDetailedResults.csv
+MSeasons.csv
+MSecondaryTourneyCompactResults.csv
+MSecondaryTourneyTeams.csv
+MTeamCoaches.csv
+MTeamConferences.csv
+MTeams.csv
+MTeamSpellings.csv
+SampleSubmissionStage1.csv
+SampleSubmissionStage2.csv
+WConferenceTourneyGames.csv
+WGameCities.csv
+WNCAATourneyCompactResults.csv
+WNCAATourneyDetailedResults.csv
+WNCAATourneySeeds.csv
+WNCAATourneySlots.csv
+WRegularSeasonCompactResults.csv
+WRegularSeasonDetailedResults.csv
+WSeasons.csv
+WSecondaryTourneyCompactResults.csv
+WSecondaryTourneyTeams.csv
+WTeamConferences.csv
+WTeams.csv
+WTeamSpellings.csv
+
+# ── Submission file (your predictions — keep private until competition ends) ──
+submission.csv
+
+# ── Python artifacts ──
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── Misc ──
+output.txt
+run.bat
+.DS_Store
